@@ -75,6 +75,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   manager: {fileID: 0}
+  knifeHitSound: {fileID: 8300000, guid: 851d823c85d266240a004650f55168c0, type: 3}
   spawn: {fileID: 0}
 --- !u!60 &6919954343879833073
 PolygonCollider2D:
